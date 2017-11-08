@@ -8,3 +8,8 @@ To assist in focusing on the classification and the prediction of anomaly events
 detected  from  the  distributed  system  logs  with  the  state-of-the-art  deep  (Convolutional  Neural  Network)  architectures  is proposed  in  this  paper.  We  measure  a  series  of  deep  CNN algorithms with varied hyper-parameter combinations by using
 standard evaluation metrics, the results of our study reveals the advantages and potential capabilities of the proposed deep CNN
 models  for  anomaly  event  classification  tasks  on  real-world systems.  The  optimal  classification  precision  of  our  approach is  98.14%,  which  surpasses  the  popular  traditional  machine learning  methods.
+
+
+Deep CNN models with different hyper-parameter combinations show diverse recognition results.
+
+![figure](https://github.com/stephen-cheng/system_anomaly_event_classification/blob/master/code/method_cnn/figure/figure6.png)
