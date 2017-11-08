@@ -10,6 +10,6 @@ standard evaluation metrics, the results of our study reveals the advantages and
 models  for  anomaly  event  classification  tasks  on  real-world systems.  The  optimal  classification  precision  of  our  approach is  98.14%,  which  surpasses  the  popular  traditional  machine learning  methods.
 
 
-Deep CNN models with different hyper-parameter combinations show diverse recognition results.
 
 ![figure](https://github.com/stephen-cheng/system_anomaly_event_classification/blob/master/code/method_cnn/figure/figure6.png)
+            Deep CNN models with different hyper-parameter combinations show diverse recognition results.
