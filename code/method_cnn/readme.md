@@ -1,4 +1,4 @@
-## Deep CNN Model:
+## Deep CNN Model
 
 ### layer:  
 
