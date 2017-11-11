@@ -13,3 +13,21 @@ models  for  anomaly  event  classification  tasks  on  real-world systems.  The
 
 ![figure](https://github.com/stephen-cheng/system_anomaly_event_classification/blob/master/code/method_cnn/figure/figure6.png)
             Deep CNN models with different hyper-parameter combinations show diverse recognition results.
+
+### dataset:
+
+https://github.com/stephen-cheng/system_anomaly_event_classification/tree/master/code/log2msg
+
+
+### convert event text to numeric feature:
+
+https://github.com/stephen-cheng/system_anomaly_event_classification/tree/master/code/msg_classification
+
+
+### adaboost, decision tree, mlp, naive bayes, random forest, svm, etc. methods for anomaly event classification:
+
+https://github.com/stephen-cheng/system_anomaly_event_classification/tree/master/code/method_ml
+
+### diversified hyper-parameter combinations of CNN approach for anoamly event classification:
+
+https://github.com/stephen-cheng/system_anomaly_event_classification/tree/master/code/method_cnn
